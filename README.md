@@ -42,4 +42,4 @@ Ensure that the implementation follows object-oriented design principles and pro
 ![Sample Solution](https://github.com/VinceTedChua/observerPattern/assets/142372312/ef49ae3a-4761-4da9-98e5-e6ccdc13ecb9)
 
 
-# Kindly check src/ObserverPattern For the Java Codes
+# Kindly check src/observerpattern For the Java Codes
