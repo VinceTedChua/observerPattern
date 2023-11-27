@@ -33,10 +33,11 @@ Ensure that the implementation follows object-oriented design principles and pro
 
 # UML Diagram:
 
-<img width="1144" alt="LABA8_OBSERVER" src="https://github.com/VinceTedChua/observer-pattern/assets/142372312/4d651d71-f30b-40b6-9827-71a8288a2011">
+<img width="1144" alt="LABA8_OBSERVER" src="https://github.com/VinceTedChua/observerPattern/assets/142372312/ed33e4fc-b379-4e8f-863c-4bbd2d664e08">
+
 
 
 # <Sample> Java Code Solution 
 
-![Sample Solution](https://github.com/VinceTedChua/observer-pattern/assets/142372312/52f770b8-eff7-45a2-8971-5750427d2e55)
+![Sample Solution](https://github.com/VinceTedChua/observerPattern/assets/142372312/ef49ae3a-4761-4da9-98e5-e6ccdc13ecb9)
 
