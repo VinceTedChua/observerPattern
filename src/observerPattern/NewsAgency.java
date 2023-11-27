@@ -26,7 +26,6 @@ public class NewsAgency implements NewsAgencySubject {
 
     @Override
     public void publish(String news) {
-        // Additional logic, if needed, before notifying subscribers
         notify(news);
     }
 }
